@@ -8,17 +8,25 @@ To write a program to implement the linear regression using gradient descent.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+~~~
+1.Import the required packages.
+2.Declare the default values.
+3.Predict the y value.
+4.Calculate the meansquare error.
+5.Plot the graph using the matplotlib.
+6.End the program
+~~~
+ 
+ 
 
 ## Program:
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+~~~
+Developed by:Umar Mohamed E 
+RegisterNumber:212220040173
+~~~
 */
 ```
 
